@@ -1,3 +1,3 @@
-## SpotifyPlaylist
-#Requiremnets
-$ pip install requests
+# SpotifyPlaylist
+# Requiremnets
+###$ pip install requests
